@@ -1,0 +1,9 @@
+[package]
+name = "rs2048"
+version = "0.1.0"
+edition = "2021"
+authors = ["M1"]
+
+[dependencies]
+cursive = "0.20"
+rand = "0.8"
